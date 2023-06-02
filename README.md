@@ -1,4 +1,4 @@
-# Foobar
+# React Native Star Wars Fan App
 
 This application is for true Star Wars fans. Here, you can browse a list of characters (82 characters) and learn detailed information about each of them. You can also add characters to your favorites.
 
